@@ -1,0 +1,35 @@
+{
+    "name": "Test Token 1",
+    "symbol": "",
+    "description": "Test Token Number 1",
+    "seller_fee_basis_points": 0,
+    "image": "https://github.com/wadkhlemshem/TestToken/raw/main/image.jpg",
+    "external_url": "https://github.com/wadkhlemshem/TestToken",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "Test Token",
+       "family": "Test Token"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/wadkhlemshem/TestToken/raw/main/image.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image"
+    }
+  }
