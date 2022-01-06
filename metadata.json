@@ -1,6 +1,6 @@
 {
-    "name": "Test Token 1",
-    "symbol": "",
+    "name": "Test Token",
+    "symbol": "TEST",
     "description": "Test Token Number 1",
     "seller_fee_basis_points": 0,
     "image": "https://github.com/wadkhlemshem/TestToken/raw/main/image.jpg",
@@ -21,7 +21,7 @@
     ],
     "collection": {
        "name": "Test Token",
-       "family": "Test Token"
+       "family": "Test Tokens"
     },
     "properties": {
       "files": [
